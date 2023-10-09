@@ -18,10 +18,10 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A ?
 
 <i>Write your explanation here</i>
-
+- ## Because first I declare variables then assign value my answer is A.
 </p>
 </details>
 
@@ -43,10 +43,10 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C ?
 
 <i>Write your explanation here</i>
-
+- ## Here my answer is "12" + this Operator is an additional operator but it also concat javascript is a highly multi-paradigm, dynamic language so it converts string, and then the result is 12.
 </p>
 </details>
 
@@ -69,10 +69,10 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C ?
 
 <i>Write your explanation here</i>
-
+- ## JavaScript has two types of data primitive or non-primitive, non-primitive, or reference data in variables or data structures.so result is C
 </p>
 </details>
 
@@ -94,9 +94,11 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B ?
 
 <i>Write your explanation here</i>
+
+- ## this function is required arguments a function parameter is a variable.without value variable always and undefined.
 
 </p>
 </details>
@@ -122,9 +124,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C ?
 
 <i>Write your explanation here</i>
-
+- ## here 0 is always a false value and 1 and 2,3 is the truth value so its multiplied 3 time,s and then the result 3
 </p>
 </details>
